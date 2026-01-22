@@ -1,14 +1,14 @@
 ## 👋 Hey there, I’m Kasturi Sawant!
 
 Welcome to my GitHub profile 😊  
-I’m an *MCA-SANDWICH (1st Year) student* with a strong interest in *Data Analysis, **SQL, **Python, and **Java*, and a growing passion for cloud technologies.
+I’m an *MCA-SANDWICH (1st Year) student* with a interest in *Data Analysis, **SQL, **Python, and **Java*, and a growing passion for cloud technologies.
 
 ---
 
 ### 🚀 About Me
 - 🎓 MCA-SANDWICH – 1st Year Student  
 - 📊 interested in AWT(Advance Web Technology)
-- 🧠 Strong foundation in SQL and Java, python and data concepts
+- 🧠 foundation in SQL and Java, python and data concepts
 - ☁ AWS Certified with hands-on cloud exposure
 - 🧮 IBM Certified in SQL 
 - 🌱 Learning by doing — practice, projects, repeat 
