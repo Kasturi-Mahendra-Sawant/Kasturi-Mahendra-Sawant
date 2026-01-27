@@ -10,7 +10,8 @@ I’m an *MCA-SANDWICH (1st Year) student* with a interest in *Data Analysis, **
 - 📊 interested in AWT(Advance Web Technology)
 - 🧠 foundation in SQL and Java, python and data concepts
 - ☁ AWS Certified with hands-on cloud exposure
-- 🧮 IBM Certified in SQL 
+- 🧮 IBM Certified in SQL
+- 🎉Basics of Microsoft Power BI
 - 🌱 Learning by doing — practice, projects, repeat 
 
 Here you’ll find:
