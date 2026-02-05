@@ -13,6 +13,7 @@ I’m an *MCA-SANDWICH (1st Year) student* with a interest in *Data Analysis, **
 - ☁ AWS Certified with hands-on cloud exposure
 - 🧮 IBM Certified in SQL
 - 🎉Basics of Microsoft Power BI
+- 🎗️Completed Data Mining course covering data preprocessing, classification, clustering, and association rule mining.
 - 🌱 Learning by doing — practice, projects, repeat 
 
 Here you’ll find:
