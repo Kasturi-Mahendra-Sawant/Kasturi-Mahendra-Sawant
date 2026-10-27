@@ -6,7 +6,7 @@ I’m an *MCA-SANDWICH (1st Year) student* with a interest in *Data Analysis, **
 ---
 
 ### 🚀 About Me
-- 🎓 MCA-SANDWICH – 1st Year Student
+- 🎓 MCA-SANDWICH 
 - 🎓 B.Sc. in Computer Science
 - 📊 interested in AWT(Advance Web Technology)
 - 🧠 foundation in SQL and Java, python and data concepts
